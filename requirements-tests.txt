@@ -1,6 +1,6 @@
 -r requirements-extras.txt
 mock==4.0.3
-coverage==4.5.1
+coverage==5.3.1
 pytest==6.2.1
 pytest-cov==2.5.1
 freezegun==0.3.10
